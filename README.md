@@ -33,7 +33,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
     - Click on "Pull requests" at the top of the page >> click green button "New Pull Request"
     - GitHub will take you to MY (Dr. Phadke's) copy of the repo (sayaliph / STAT184-GitHub-Practice) at the top
     - Click the green button "Create pull request"
-    - Describe the change again (e.g. "added Matt Beckman to class table")
+    - Describe the change again (e.g. "added Sayali Phadke to class table")
     - Click the green button "Create pull request"
     - Job done!
 6. (ungraded) pat yourself on the back

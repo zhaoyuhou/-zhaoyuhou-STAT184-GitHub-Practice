@@ -1,4 +1,4 @@
-
+#zhaoyu hou / STAT184-GitHub-Practice
 # GitHub Setup and Practice Assignment
 This assignment involves multiple steps and will possibly use unfamiliar terminology. Go slowly, read and follow instructions carefully, and you will be alright!
 
